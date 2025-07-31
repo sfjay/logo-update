@@ -42,8 +42,3 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 | ![SymbolBlack](logo/TheSquare/Digital/Base_square_black.svg)   | ![WordmarkBlack](logo/Basemark/Digital/Base_basemark_black.svg)   |
 
 
-Logotype                                                |
-| ------------------------------------------------- | ------------------------------------------------------- |
-| ![Logotype2Color](logo/logotype/Digital/Base_lockup_2color.png)   | ![Logotype2Color](logo/logotype/Digital/Base_lockup_2color.svg)   |
-| ![[LogotypeBlack](logo/logotype/Digital/Base_lockup_black.png)   | ![[LogotypeBlack](logo/logotype/Digital/Base_lockup_black.svg)  |
-| ![[LogotypeWhite](logo/logotype/Digital/Base_lockup_white.png)   | ![[LogotypeWhite](logo/logotype/Digital/Base_lockup_white.svg)   |
